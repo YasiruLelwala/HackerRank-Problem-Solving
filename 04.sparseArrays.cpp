@@ -28,5 +28,4 @@ int main()
     {
         std::cout << occurences[i] << std::endl;
     }
-
 }
